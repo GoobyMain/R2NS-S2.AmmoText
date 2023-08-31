@@ -14,7 +14,7 @@ In case of any crashes and/or questions ping me (S2ymi#6601) on the Official Nor
 ## v1.0.4:
 
 Bugfixes:
-- Magazine% no longer is forced at 30, now uses number in settings
+- Magazine% no longer is forced at 30, now uses percentage number from mod settings
 - Text displays when dead/during replay/etc. less often, still buggy
 - Reload text no longer uses static color
 - When 1 or fewer bullets remain in gun, low ammo text uses exactly second color, color gradient shifted to match
